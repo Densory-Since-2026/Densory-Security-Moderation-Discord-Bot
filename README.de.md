@@ -1,6 +1,6 @@
 # Densory Security — Security & Moderation
 
-![Aktuelle Version: v1.8.6](https://img.shields.io/badge/Aktuelle_Version%3A_v1.8.6-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Aktuelle Version: v1.8.7](https://img.shields.io/badge/Aktuelle_Version%3A_v1.8.7-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Security](docs/assets/hero-de.png)
 
