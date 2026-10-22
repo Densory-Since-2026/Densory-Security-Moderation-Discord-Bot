@@ -65,6 +65,7 @@ Alle folgenden Einstellungen konfigurierst du in deinem [Control Center](https:/
 | `antispam_status` | `string` | `disabled` | Anti-Spam |
 | `antispam_log_channel` | `channel` | `""` | Anti-Spam Log-Kanal |
 | `antispam_action` | `string` | `timeout` | Spam Aktion |
+| `antispam_without_content` | `string` | `disabled` | Ohne Message-Content-Freigabe: Rate und Erwähnungen prüfen |
 | `antispam_message_rate` | `number` | `5` | Nachrichten (max.) |
 | `antispam_message_interval` | `number` | `5` | Zeitfenster (Sek.) |
 | `antispam_duplicate_threshold` | `number` | `3` | Duplikat-Schwelle |

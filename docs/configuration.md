@@ -65,6 +65,7 @@ All settings below are configured in your [Control Center](https://densory.com/d
 | `antispam_status` | `string` | `disabled` | Anti-Spam |
 | `antispam_log_channel` | `channel` | `""` | Anti-Spam Log Channel |
 | `antispam_action` | `string` | `timeout` | Spam Action |
+| `antispam_without_content` | `string` | `disabled` | Without the Message Content grant: check rate and mentions |
 | `antispam_message_rate` | `number` | `5` | Messages (max.) |
 | `antispam_message_interval` | `number` | `5` | Time Window (sec.) |
 | `antispam_duplicate_threshold` | `number` | `3` | Duplicate Threshold |
