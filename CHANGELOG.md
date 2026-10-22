@@ -1,7 +1,7 @@
 # Changelog — Densory Security
 
-## v1.9.2
+## v1.9.3
 
-- Release v1.9.2 published from the Densory build pipeline.
+- Release v1.9.3 published from the Densory build pipeline.
 
 Available in the [Densory Shop](https://densory.com/shop/densory-security).
