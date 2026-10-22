@@ -26,6 +26,7 @@ Alle folgenden Einstellungen konfigurierst du in deinem [Control Center](https:/
 | `log_mod_channel` | `channel` | `""` | Moderations-Log |
 | `log_message_channel` | `channel` | `""` | Nachrichten-Log |
 | `log_member_channel` | `channel` | `""` | Mitglieder-Log |
+| `log_member_audit_fallback` | `string` | `disabled` | Rollen & Nicknames per Audit-Log |
 | `log_server_channel` | `channel` | `""` | Server-Log |
 | `log_ignored_channels` | `channels` | `[]` | Ignorierte Kanäle |
 | `log_ignored_roles` | `roles` | `[]` | Ignorierte Rollen |

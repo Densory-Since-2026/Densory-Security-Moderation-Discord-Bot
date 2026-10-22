@@ -26,6 +26,7 @@ All settings below are configured in your [Control Center](https://densory.com/d
 | `log_mod_channel` | `channel` | `""` | Moderation Log |
 | `log_message_channel` | `channel` | `""` | Message Log |
 | `log_member_channel` | `channel` | `""` | Member Log |
+| `log_member_audit_fallback` | `string` | `disabled` | Roles & nicknames via audit log |
 | `log_server_channel` | `channel` | `""` | Server Log |
 | `log_ignored_channels` | `channels` | `[]` | Ignored Channels |
 | `log_ignored_roles` | `roles` | `[]` | Ignored Roles |
